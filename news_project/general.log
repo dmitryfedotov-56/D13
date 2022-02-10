@@ -1,0 +1,23 @@
+INFO 2022-02-07 20:21:36,953 autoreload Watching for file changes with StatReloader
+INFO 2022-02-07 20:21:46,818 basehttp "GET /show/95 HTTP/1.1" 200 2144
+INFO 2022-02-08 18:19:01,299 autoreload Watching for file changes with StatReloader
+INFO 2022-02-08 18:19:10,137 basehttp "GET / HTTP/1.1" 200 9326
+WARNING 2022-02-08 18:19:10,398 log Not Found: /favicon.ico
+WARNING 2022-02-08 18:19:10,401 basehttp "GET /favicon.ico HTTP/1.1" 404 4361
+INFO 2022-02-08 18:19:16,403 basehttp "GET /show/95 HTTP/1.1" 200 2144
+WARNING 2022-02-08 18:19:43,123 log Not Found: /example
+WARNING 2022-02-08 18:19:43,124 basehttp "GET /example HTTP/1.1" 404 4349
+INFO 2022-02-08 18:43:21,664 autoreload Watching for file changes with StatReloader
+INFO 2022-02-08 18:43:29,253 basehttp "GET / HTTP/1.1" 200 9326
+INFO 2022-02-08 18:43:33,210 basehttp "GET /show/95 HTTP/1.1" 200 2144
+WARNING 2022-02-08 18:43:44,311 log Not Found: /example
+WARNING 2022-02-08 18:43:44,312 basehttp "GET /example HTTP/1.1" 404 4349
+INFO 2022-02-09 11:03:55,405 autoreload Watching for file changes with StatReloader
+INFO 2022-02-09 11:04:04,382 basehttp "GET / HTTP/1.1" 200 9326
+INFO 2022-02-09 11:04:07,958 basehttp "GET /show/95 HTTP/1.1" 200 2144
+WARNING 2022-02-09 11:04:24,137 log Not Found: /show/129
+WARNING 2022-02-09 11:04:24,139 basehttp "GET /show/129 HTTP/1.1" 404 2622
+INFO 2022-02-10 18:19:44,718 autoreload Watching for file changes with StatReloader
+INFO 2022-02-10 18:19:47,434 basehttp "GET / HTTP/1.1" 200 9326
+INFO 2022-02-10 18:19:58,363 basehttp "GET /category/ HTTP/1.1" 200 2879
+INFO 2022-02-10 18:20:10,295 basehttp "GET /new_posts/ HTTP/1.1" 200 248
